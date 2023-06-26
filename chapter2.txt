@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 this is alienpiece ch 2
 
 
 this is main branch stuff
+=======
+that is alienpiece ch 2
+
+
+>>>>>>> alien-plot
